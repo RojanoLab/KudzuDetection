@@ -15,6 +15,9 @@ User Instructions for general users no need to be coders
 ## How to tweak this project for your own purposes
 Use other plants
 
+Requirements:
+step 1: Image retriveation
+`python -m pip install requests`
 
 
 
