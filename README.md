@@ -29,12 +29,5 @@ Email:
 
 
 
-SEO VALUE
-
-WHAT THE PROJECT DOES? 
-Use keywords
-
-Gaining Users
-
-Noise Reduction
-
+Keywords: geographic information systems, google street view, ecology, kudzu, workflow,
+image classification, object detection, convolutional neural networks
