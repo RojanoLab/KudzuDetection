@@ -5,7 +5,7 @@
 Intro paragraph use keywords here.
 
 ## Visual Helper: diagram video
-![Alt text](URL or file path)
+![Workflow of our proposed model](Workflow.png)
 
 ## Datasets
 - Locations: [USGS Inhabit database](https://gis.usgs.gov/inhabit/)
