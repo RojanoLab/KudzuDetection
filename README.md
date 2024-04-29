@@ -5,10 +5,12 @@
 Intro paragraph use keywords here.
 
 ## Visual Helper: diagram video
+![Alt text](URL or file path)
 
 ## Datasets
-- Locations: 
-- Training Dataset: 
+- Locations: [USGS Inhabit database](https://gis.usgs.gov/inhabit/)
+
+- Training Dataset: [Kudzu Alive vs Dead](https://gis.usgs.gov/inhabit/) FIX LINK
 
 ## Requirements
 
