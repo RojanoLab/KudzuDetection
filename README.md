@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Concurrent Geospatial Data for Supervising Invasive Species in Small and Dispersed Areas 
 
 ## ONE LINER OF WHAT IT DOES
 
@@ -8,7 +8,11 @@ Intro paragraph use keywords here.
 
 ## How to use this workflow
 User Instructions for general users no need to be coders
-1. Clone this project
+1. Clone this repository
+2. Obtain a Google Maps API key
+3. HHHH
+4. qwert
+
 
 
 
@@ -27,10 +31,10 @@ step 1: Image retriveation
 
 
 ### Contact
-Email: 
+Email: aclosatarres@wvstateu.edu
 
 
 
 
-Keywords: geographic information systems, google street view, ecology, kudzu, workflow,
+**Keywords:** geographic information systems, google street view, ecology, kudzu, workflow,
 image classification, object detection, convolutional neural networks
