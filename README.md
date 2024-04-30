@@ -10,7 +10,7 @@ Intro paragraph use keywords here.
 ## Datasets
 - Locations: [USGS Inhabit database](https://gis.usgs.gov/inhabit/)
 
-- Training Dataset: [Kudzu Alive vs Dead](https://gis.usgs.gov/inhabit/) FIX LINK
+- Training Dataset: [Kudzu Alive vs Dead](https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation) 
 
 ## Requirements
 
