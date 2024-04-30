@@ -14,6 +14,13 @@ Intro paragraph use keywords here.
 
 ## Requirements
 
+For GPU:
+- Tensorflow version older than 2.11: `!pip install "tensorflow<2.11"` This is important if wanted to use GPU. I believe higher versions work with the cpu.
+- Cuda and Cudnn: `conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0 -y`
+- 
+
+GPU set-Up for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/)) 
+pip list
 
 ## How to use this workflow
 User Instructions for general users no need to be coders
