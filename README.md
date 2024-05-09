@@ -25,13 +25,15 @@ If need it: !pip list
 ## How to use this workflow
 User Instructions for general users no need to be coders
 1. Clone this repository
-2. Obtain a Google Maps API key
-3. Run 1.MATLABCODE.ipynb. 
-4. Run 2.StreetView.ipynb, make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
-5. Run 3.DeepCNNImageClassifier.ipynb, make sure to edit the path variables `your_directory = <YOUR_FOLDER_GOES_HERE>`
-6. Run 4.Image Confirmation.ipynb, 
-7. qwert
+2. Create a virtual environmnent
+3. Obtain a Google Maps API key
+4. Run 1.MATLABCODE.ipynb. 
+5. Run 2.StreetView.ipynb, make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
+6. Run 3.DeepCNNImageClassifier.ipynb, make sure to edit the path variables `your_directory = <YOUR_FOLDER_GOES_HERE>`
+7. Run 4.Image Confirmation.ipynb, 
+8. qwert
 
+For more detailed steps: Step by Step [Project.Docs](https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation) 
 
 
 
