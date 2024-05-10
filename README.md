@@ -22,7 +22,7 @@ Only for GPU:
 - Cuda and Cudnn: `conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0 -y`
 
 GPU set-up help for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/)) 
-
+Tensorflow MacOS Anaconda ([tutorial](https://www.youtube.com/watch?v=CrEl8QL8hsM))
 If need it: !pip list
 
 ## How to use this workflow
