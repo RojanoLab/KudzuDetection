@@ -15,15 +15,14 @@ Intro paragraph use keywords here.
 ## Requirements
 
 For CPU or GPU:
-- Tensorflow version older than 2.11: `!pip install "tensorflow<2.11"`
-- 
-
+- Tensorflow version older than 2.11: `tensorflow<2.11`
+  
 Only for GPU:
-- Cuda and Cudnn: `conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0 -y`
+- Cuda and Cudnn: `cudatoolkit=11.2 cudnn=8.1.0 `
 
-Libraries:
-- 2.StreetView: utm, pandas, openpyxl, requests, numpy
-- 3.DeepCNNImageClassifier: tensorflow<2.11, matplotlib, opencv, keras, ipykernel
+Libraries needed for each file:
+- 2.StreetView: `utm, pandas, openpyxl, requests, numpy`
+- 3.DeepCNNImageClassifier: `tensorflow<2.11, matplotlib, opencv, keras, ipykernel`
 
 GPU set-up help for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/)) 
 Tensorflow MacOS Anaconda ([tutorial](https://www.youtube.com/watch?v=CrEl8QL8hsM))
