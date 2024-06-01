@@ -1,6 +1,6 @@
 # Concurrent Geospatial Data for Supervising Invasive Species in Small and Dispersed Areas 
 
-## ONE LINER OF WHAT IT DOES
+## A geospatial data-driven approach to efficiently identify and manage invasive kudzu plant habitats using advanced image recognition and classification techniques."
 
 Intro paragraph use keywords here.
 
