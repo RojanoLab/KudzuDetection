@@ -24,9 +24,13 @@ Libraries needed for each file:
 - 3.DeepCNNImageClassifier: `tensorflow<2.11, matplotlib, opencv, keras, ipykernel`
 
 ## Help Setting Up the requirements
-GPU set-up help for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/)) 
-Tensorflow MacOS Anaconda ([tutorial](https://www.youtube.com/watch?v=CrEl8QL8hsM))
-If need it: !pip list
+Windows:
+- Use `pip` to install libraries
+- GPU set-up for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/))
+MacOS:
+- Use `conda` to install libraries
+- Tensorflow & Anaconda ([tutorial](https://www.youtube.com/watch?v=CrEl8QL8hsM))
+
 
 ## How to use this workflow
 User Instructions for general users no need to be coders
@@ -47,8 +51,6 @@ For more detailed steps: Step by Step [Project.Docs](https://www.kaggle.com/data
 Use other plants
 
 Requirements:
-step 1: Image retriveation
-`python -m pip install requests`
 
 
 
