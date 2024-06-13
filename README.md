@@ -48,17 +48,7 @@ For more detailed steps: Step by Step [Project.Docs](https://www.kaggle.com/data
 
 
 
-## How to tweak this project for your own purposes
-Use other plants
-
-Requirements:
-
-
-
-
 ### Known Issues
-
-
 
 ### Contact
 Email: aclosatarres@wvstateu.edu
