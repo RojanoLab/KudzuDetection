@@ -21,8 +21,8 @@ Only for GPU:
 - Cuda and Cudnn: `cudatoolkit=11.2 cudnn=8.1.0 `
 
 Libraries needed for each file:
-- 2.StreetView: `utm, pandas, openpyxl, requests, numpy`
-- 3.DeepCNNImageClassifier: `tensorflow<2.11, matplotlib, opencv, keras, ipykernel`
+- 2.StreetView: `utm pandas openpyxl requests numpy`
+- 3.DeepCNNImageClassifier: `tensorflow<2.11 matplotlib opencv keras ipykernel`
 
 ## Help Setting Up the requirements
 Windows:
