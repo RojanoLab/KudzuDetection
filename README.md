@@ -22,7 +22,7 @@ Only for GPU:
 
 Libraries needed for each file:
 - 2.StreetView: `utm pandas openpyxl requests numpy`
-- 3.DeepCNNImageClassifier: `"tensorflow<2.11" matplotlib opencv keras ipykernel`
+- 3.DeepCNNImageClassifier: `"tensorflow<2.11" matplotlib opencv-python keras ipykernel`
 
 ## Help Setting Up the requirements
 Windows:
