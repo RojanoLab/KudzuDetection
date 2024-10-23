@@ -23,7 +23,7 @@ Libraries needed for each file:
 ## Help Setting Up the requirements
 Windows:
 - Use `pip` to install libraries
-- GPU set-up for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/))
+- GPU set-up for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/))  
 MacOS:
 - Use `conda` to install libraries
 
