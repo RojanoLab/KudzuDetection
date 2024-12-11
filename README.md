@@ -34,7 +34,7 @@ User Instructions for general users no need to be coders
 2. Create a virtual environmnent
 3. Download Training Dataset [Kudzu Alive vs Dead](https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation) and save the files inside the data directory
 4. Obtain a Google Maps API key
-5. Run 1.StreetView.ipynb, make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
+5. Run 1.StreetView.ipynb, image retrival part. Make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
 6. Run 2.DeepCNNImageClassifier.ipynb, make sure to edit the path variables `your_directory = <YOUR_FOLDER_GOES_HERE>`
 7. Run 3.Image Confirmation.ipynb, 
 
