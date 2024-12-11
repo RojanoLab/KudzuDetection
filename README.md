@@ -6,7 +6,7 @@ This project integrates geographic information systems to preprocess and integra
 
 
 ## Workflow
-![Workflow of our proposed model](Workflow.png)
+![Workflow of our proposed model](Workflow_diagram.png)
 
 ## Datasets
 - Locations: [USGS Inhabit database](https://gis.usgs.gov/inhabit/)
