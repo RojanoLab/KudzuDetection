@@ -26,12 +26,11 @@ matplotlib 3.6.20
 
 
 ## How to use this workflow
-User Instructions for general users no need to be coders
-1. Clone this repository.
-2. Create a virtual environmnent with all the requirements.
-4. Obtain a Google Maps API Key & a Roboflow API Key.
-5. Run 1.StreetView.ipynb: this is the GSV Image Retrival process. Make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
-6. Run 2.YOLO.ipynb: this is the Kudzu Detection process. Make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE`
+Steps:
+1. Create a virtual environmnent with all the requirements.
+2. Obtain a Google Maps API Key & a Roboflow API Key.
+3. Run 1.StreetView.ipynb: this is the GSV Image Retrival process. Make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
+4. Run 2.YOLO.ipynb: this is the Kudzu Detection process. Make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE`
 
 ### Contact
 Email: aclosatarres@wvstateu.edu
