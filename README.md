@@ -15,18 +15,13 @@ This project integrates geographic information systems to preprocess and integra
 - Training Dataset: [Kudzu Dataset]([https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation](https://app.roboflow.com/test-mhm3s/kudzu-in-gsv/3)) check if link works, should be redirected to roboflow
 
 ## Requirements
-Only for GPU:
-- Cuda and Cudnn: `cudatoolkit=11.2 cudnn=8.1.0 `
+- Cuda and Cudnn: `PyTorch 1.7 + CUDA 10.1 + torchvision 0.8.2
+TensorBoard 2.11
+Numpy 1.22
+tqdm 4.59
+einops 0.4.1
+matplotlib 3.6.20 `
 
-Libraries needed for each file:
-- requirements.txt
-
-## Help Setting Up the requirements
-Windows:
-- Use `pip` to install libraries
-- GPU set-up for Windows 11 ([tutorial](https://www.xda-developers.com/use-gpu-jupyter-notebook/))  
-MacOS:
-- Use `conda` to install libraries
 
 ## How to use this workflow
 User Instructions for general users no need to be coders
