@@ -15,6 +15,7 @@ This project integrates geographic information systems to preprocess and integra
 - Training Dataset: [Kudzu Dataset](https://app.roboflow.com/test-mhm3s/kudzu-in-gsv/3) 
 
 ## Main Requirements
+The main requirements are:
 ```python
 numpy               1.24.4<=2.1.1,>=1.23.0
 matplotlib          3.7.5>=3.3.0
