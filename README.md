@@ -33,7 +33,7 @@ pandas              2.0.3>=1.1.4
 seaborn             0.13.2>=0.11.0
 ultralytics-thop    2.0.14>=2.0.0
 ```
-In case of need of specific libraries and versions, check [requirements.txt](requirements.txt)
+All libraries and specific versions in [requirements.txt](requirements.txt).
 
 ## How to use this workflow
 Steps:
