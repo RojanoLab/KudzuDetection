@@ -12,7 +12,7 @@ This project integrates geographic information systems to preprocess and integra
 
 ## Datasets
 - Locations: [USGS Inhabit database](https://gis.usgs.gov/inhabit/)
-- Training Dataset: [Kudzu Dataset]([[https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation](https://app.roboflow.com/test-mhm3s/kudzu-in-gsv/3)]) check if link works, should be redirected to roboflow
+- Training Dataset: [Kudzu Dataset](https://app.roboflow.com/test-mhm3s/kudzu-in-gsv/3) check if link works, should be redirected to roboflow
 
 ## Requirements
 ```python
@@ -28,8 +28,8 @@ matplotlib 3.6.20
 ## How to use this workflow
 User Instructions for general users no need to be coders
 1. Clone this repository
-2. Create a virtual environmnent
-3. Download Training Dataset [Kudzu Alive vs Dead](https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation) and save the files inside the data directory
+2. Create a virtual environmnent with all the requirements.
+3. Download the [Training Kudzu Dataset](https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation) and save the files inside the data directory
 4. Obtain a Google Maps API key
 5. Run 1.StreetView.ipynb: this is the GSV image retrival process. Make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
 6. Run 2.YOLO.ipynb: this is the kudzu detection process. Make sure to edit the variables `api_key = <YOUR_API_KEY_GOES_HERE`
@@ -37,5 +37,4 @@ User Instructions for general users no need to be coders
 ### Contact
 Email: aclosatarres@wvstateu.edu
 
-**Keywords:** geographic information systems, google street view, ecology, kudzu, workflow,
-image classification, object detection, convolutional neural networks
+**Keywords:** geographic information systems, google street view (GSV), ecology, kudzu, workflow, object detection, convolutional neural networks
