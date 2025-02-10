@@ -12,7 +12,7 @@ This project integrates geographic information systems to preprocess and integra
 
 ## Datasets
 - Locations: [USGS Inhabit database](https://gis.usgs.gov/inhabit/)
-- Training Dataset: [Kudzu Dataset]([https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation](https://app.roboflow.com/test-mhm3s/kudzu-in-gsv/3)) check if link works, should be redirected to roboflow
+- Training Dataset: [Kudzu Dataset]([[https://www.kaggle.com/datasets/albaclosatarres/alive-vs-dead-kudzu-vegetation](https://app.roboflow.com/test-mhm3s/kudzu-in-gsv/3)]) check if link works, should be redirected to roboflow
 
 ## Requirements
 ```python
