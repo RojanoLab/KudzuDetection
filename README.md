@@ -23,7 +23,40 @@ tqdm 4.59
 einops 0.4.1
 matplotlib 3.6.20
 ```
+```
+Ultralytics 8.3.53 🚀 Python-3.9.13 torch-2.2.2 CPU (Intel Core(TM) i5-8257U 1.40GHz)
+Setup complete ✅ (8 CPUs, 16.0 GB RAM, 210.4/233.5 GB disk)
 
+OS                  macOS-10.16-x86_64-i386-64bit
+Environment         Darwin
+Python              3.9.13
+Install             pip
+RAM                 16.00 GB
+Disk                210.4/233.5 GB
+CPU                 Intel Core(TM) i5-8257U 1.40GHz
+CPU count           8
+GPU                 None
+GPU count           None
+CUDA                None
+
+numpy               ✅ 1.24.4>=1.23.0
+numpy               ✅ 1.24.4<2.0.0; sys_platform == "darwin"
+matplotlib          ✅ 3.5.2>=3.3.0
+opencv-python       ✅ 4.6.0.66>=4.6.0
+pillow              ✅ 9.2.0>=7.1.2
+pyyaml              ✅ 6.0>=5.3.1
+requests            ✅ 2.28.1>=2.23.0
+scipy               ✅ 1.9.1>=1.4.1
+torch               ✅ 2.2.2>=1.8.0
+torch               ✅ 2.2.2!=2.4.0,>=1.8.0; sys_platform == "win32"
+torchvision         ✅ 0.17.2>=0.9.0
+tqdm                ✅ 4.64.1>=4.64.0
+psutil              ✅ 5.9.0
+py-cpuinfo          ✅ 9.0.0
+pandas              ✅ 1.4.4>=1.1.4
+seaborn             ✅ 0.11.2>=0.11.0
+ultralytics-thop    ✅ 2.0.13>=2.0.0
+```
 
 ## How to use this workflow
 Steps:
