@@ -1,5 +1,5 @@
 # Concurrent Geospatial Data for Supervising Invasive Species in Small and Dispersed Areas 
-A geospatial data-driven approach to efficiently identify and manage invasive kudzu plant habitats using image recognition and classification techniques.
+A geospatial data-driven approach to efficiently identify and manage invasive kudzu plant habitats using object detection techniques.
 
 ![Results](images/results.png)
 
