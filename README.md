@@ -36,7 +36,7 @@ ultralytics-thop    2.0.14>=2.0.0
 ```
 All libraries and specific versions in [requirements.txt](requirements.txt).
 
-## How to use this workflow
+## How to Use this Workflow
 Steps:
 1. Create a virtual environment with all the requirements.
 2. Obtain a Google Maps API Key & a Roboflow API Key.
