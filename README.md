@@ -41,7 +41,7 @@ Steps:
 1. Create a virtual environment with all the requirements.
 2. Obtain a Google Maps API Key & a Roboflow API Key.
 3. Run [1.StreetView.ipynb](1.StreetView.ipynb): this is the GSV Image Retrieval process. Make sure to edit the variables `api_key = <YOUR_API_KEY_GOES_HERE>` and `your_directory = "YOUR_BASE_DIRECTORY_GOES_HERE"`.
-4. Run [2.YOLO.ipynb](2.YOLO.ipynb): this is the Kudzu Detection process. Make sure to edit the variable `api_key = <YOUR_API_KEY_GOES_HERE>`
+4. Run [2.YOLO.ipynb](2.YOLO.ipynb): this is the Kudzu Detection process. Make sure to edit the variables `api_key = <YOUR_API_KEY_GOES_HERE>`, `your_directory = "YOUR_BASE_DIRECTORY_GOES_HERE"`, `results_folder = 'path/to/results/folder'`, and `model_path = 'path/to/model/weights'`
 
 ### Contact
 Email: aclosatarres@wvstateu.edu
