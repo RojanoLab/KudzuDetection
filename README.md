@@ -46,4 +46,4 @@ Steps:
 ### Contact
 Email: aclosatarres@wvstateu.edu
 
-**Keywords:** geographic information systems, Google Street View (GSV), ecology, kudzu, workflow, object detection, convolutional neural networks
+**Keywords:** geographic information systems, Google Street View (GSV), ecology, kudzu, workflow, object detection, convolutional neural networks, YOLO
