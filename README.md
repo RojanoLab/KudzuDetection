@@ -44,6 +44,6 @@ Steps:
 4. Run [2.YOLO.ipynb](2.YOLO.ipynb): this is the Kudzu Detection process. Make sure to edit the variables `api_key = <YOUR_API_KEY_GOES_HERE>`, `your_directory = "YOUR_BASE_DIRECTORY_GOES_HERE"`, `results_folder = '/path/to/your/runs/detect/train/folder'`, `model_path = '/path/to/your/runs/detect/train/weights/best.pt'`, and `root_directory = 'path/to/runs/detect/folder'`.
 
 ### Contact
-Email: aclosatarres@wvstateu.edu
+Email: aclosatarres@wvstateu.edu or fernando.rojano@wvstateu.edu
 
 **Keywords:** geographic information systems, Google Street View (GSV), ecology, kudzu, workflow, object detection, convolutional neural networks, YOLO
