@@ -12,7 +12,7 @@ This project integrates geographic information systems to preprocess and integra
 
 ## Datasets
 - Locations: [USGS Inhabit database](https://gis.usgs.gov/inhabit/)
-- Training Dataset: [Kudzu Dataset](https://app.roboflow.com/test-mhm3s/kudzu_full_images/4) 
+- Training Dataset: [Kudzu Dataset](https://universe.roboflow.com/test-mhm3s/kudzu_full_images/dataset/10)
 
 ## Main Requirements
 The main requirements are:
